@@ -11,6 +11,8 @@ iso-profile for aerOS.
 
 You can help us make aerOS by emailing us at hewol@proton.me or join our Discord Sever: https://discord.gg/haTmcAtKCP
 
+Visit our main repo: https://github.com/hewol/aeros
+
 ![aerOS](https://hewol.github.io/assets/img/aeros-pic.png)
 
 
